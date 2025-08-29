@@ -4,14 +4,12 @@
   <em>“neon”</em>
 </p>
 
-
-
 ## 🌙 About Me
 - 🕷️ Estudante de **Ciência da Computação**  
-- 🖤 Explorando **C**, **Python** e **Cybersecurity**
-- 🌑 Entusiasmo por **Pen-test**
-
-
+- 🖤 Explorando **C**, **Python** e **Cybersecurity**  
+- 🌑 Entusiasmo por **Pen-test** e **ethical hacking**  
+- 🔍 Aprendizado ativo em **TryHackMe**, **OWASP Top Ten**, **Exploit-DB**, **CVE**, **Censys Search**  
+- 📝 Paixão por documentação em **Markdown**
 
 ## ⚔️ Tech Arsenal
 <p align="center">
@@ -20,9 +18,8 @@
   <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF0050"/>
   <img src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=9F7AEA"/>
 </p>
-
-
 
 ## 🌌 Aesthetic
 <p align="center">
@@ -30,7 +27,7 @@
 </p>
 
 <p align="center">
-  👾 Cyber
+  👾 Cyber | Ethical Hacker | Markdown Lover
 </p>
 
 ---
@@ -40,5 +37,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lunalith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9F7AEA&icon_color=00FFFF&text_color=FFFFFF" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunalith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9F7AEA&text_color=FFFFFF" width="48%"/>
 </p>
-
----
