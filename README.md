@@ -1,5 +1,5 @@
 <!-- 
-  🌸 Luna | Cyber Blossom 🌸
+  🌸 Lunalith | Cyber Blossom 🌸
   DevSecOps • Ethical Hacking • Poetic Code
 -->
 
@@ -9,20 +9,16 @@
 
 <h3 align="center">🌸 Luna | Cyber Blossom 🌸</h3>
 <p align="center">
-  Estudante de Ciência da Computação @ Unisinos (POA) • Fundadora da <a href="https://github.com/sakuraforge">@sakuraforge</a><br>
-  Explorando <strong>DevSecOps</strong>, <strong>ethical hacking</strong> e <strong>código com estética</strong>
+  Estudante de Ciência da Computação @ Unisinos (POA) • Foco em Cybersecurity, Dev e Cloud
 </p>
 
 ---
 
 ### 🌱 Atualmente
 
-- 🏗️ Construindo [`infra-pipeline-poa`](https://github.com/lunalith/infra-pipeline-poa):  
-  **Pipeline DevOps end-to-end** com GitHub Actions, Terraform, DigitalOcean, New Relic e Doppler.
-- 🔍 Aprendendo ativamente: **TryHackMe**, **OWASP Top 10**, **CVE analysis**, **Censys recon**
-- 💻 Desenvolvendo em: **Python**, **Go**, **SvelteKit**, **Linux**, **Docker**
-- 🎨 Forjando no coletivo [**SakuraForge**](https://github.com/sakuraforge):  
-  _Breakcore tools • Glitch art pipelines • DevSecOps petals_
+- 🏗️ Construindo [`Sakura Forge`](https://github.com/sakuraforge): Projeto open-source pessoal com foco em ferramentas de desenvolvimento seguro que se integram no ciclo do software
+- 🔍 Aprendendo ativamente: **TryHackMe**, **Cisco Netacad**, **Exercism.org**, **Roadmap.sh**
+- 💻 Desenvolvendo em: **Python**, **Go**, **SvelteKit**, **Linux**
 
 ---
 
@@ -35,24 +31,13 @@
   <img src="https://img.shields.io/badge/Linux-04182a?style=for-the-badge&logo=linux&logoColor=C18BFF" />
   <img src="https://img.shields.io/badge/Git-04182a?style=for-the-badge&logo=git&logoColor=ff8094" />
   <img src="https://img.shields.io/badge/Docker-04182a?style=for-the-badge&logo=docker&logoColor=6CD8B8" />
-  <img src="https://img.shields.io/badge/Terraform-04182a?style=for-the-badge&logo=terraform&logoColor=FF8094" />
-  <img src="https://img.shields.io/badge/New_Relic-04182a?style=for-the-badge&logo=newrelic&logoColor=53E3FF" />
 </p>
-
----
-
-### 📊 Digital Blossom Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lunalith&show_icons=true&theme=radical&hide_border=true&bg_color=04182a&title_color=ff8094&icon_color=53E3FF&text_color=FDE5EA&border_radius=12" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunalith&layout=compact&theme=radical&hide_border=true&bg_color=04182a&title_color=ff8094&text_color=FDE5EA&border_radius=12" />
-</div>
 
 ---
 
 ### 🌸 Filosofia
 
-> **"Código que floresce em camadas. Segurança como raiz. Beleza no glitch controlado."**
+> **"Código que floresce em camadas. Segurança como raiz."**
 
 - Acredito que **infraestrutura pode ser poética**
 - **DevSecOps** não é só pipeline — é **cultura de cuidado**
@@ -62,8 +47,8 @@
 
 ### 💫 Conecte-se
 
-- 🌐 [Portfólio (em construção)](https://lunalith.dev)  
+- 🌐 [Portfólio (em breve)](https://lunalith.dev)  
 - 🐙 [SakuraForge Collective](https://github.com/sakuraforge)  
-- 📧 [📧 muni@lunalith.dev](mailto:muni@lunalith.dev)
+- 📧 [muni@lunalith.dev](mailto:muni@lunalith.dev)
 
 > _"Florescer é iterar — cada pull request, uma metamorfose."_
