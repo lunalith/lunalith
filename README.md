@@ -4,21 +4,21 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&pause=1000&color=FF8094&center=true&vCenter=true&width=600&lines=Florescendo+no+ruído...;Forjando+código+como+pétalas;Glitch+controlado%2C+crescimento+orgânico;printf(%22Hello%2C+SakuraForge%22);" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&pause=1000&color=FF8094&center=true&vCenter=true&width=600&lines=Blooming+in+the+noise...;Forging+code+like+petals;Controlled+glitch%2C+organic+growth;printf(%22Hello%2C+SakuraForge%22);" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🌸 Luna | Cyber Blossom 🌸</h3>
 <p align="center">
-  Estudante de Ciência da Computação @ Unisinos (POA) • Foco em Cybersecurity, Dev e Cloud
+  Computer Science Student @ Unisinos (POA) • Focus on Cybersecurity, Dev and Cloud
 </p>
 
 ---
 
-### 🌱 Atualmente
+### 🌱 Currently
 
-- 🏗️ Construindo [`Sakura Forge`](https://github.com/sakuraforge): Projeto open-source pessoal com foco em ferramentas de desenvolvimento seguro que se integram no ciclo do software
-- 🔍 Aprendendo ativamente: **TryHackMe**, **Cisco Netacad**, **Exercism.org**, **Roadmap.sh**
-- 💻 Desenvolvendo em: **Python**, **Go**, **SvelteKit**, **Linux**
+- 🏗️ Building [`Sakura Forge`](https://github.com/sakuraforge): Personal open-source project focused on secure development tools that integrate into the software lifecycle
+- 🔍 Actively learning: **TryHackMe**, **Cisco Netacad**, **Exercism.org**, **Roadmap.sh**
+- 💻 Developing in: **Python**, **Go**, **SvelteKit**, **Linux**
 
 ---
 
@@ -35,20 +35,20 @@
 
 ---
 
-### 🌸 Filosofia
+### 🌸 Philosophy
 
-> **"Código que floresce em camadas. Segurança como raiz."**
+> **"Code that blooms in layers. Security as the root."**
 
-- Acredito que **infraestrutura pode ser poética**
-- **DevSecOps** não é só pipeline — é **cultura de cuidado**
-- Cada commit é uma **pétala**. Cada vulnerabilidade corrigida, uma **defesa orgânica**
+- I believe that **infrastructure can be poetic**
+- **DevSecOps** is not just a pipeline — it's a **culture of care**
+- Every commit is a **petal**. Every fixed vulnerability, an **organic defense**
 
 ---
 
-### 💫 Conecte-se
+### 💫 Connect
 
-- 🌐 [Portfólio (em breve)](https://lunalith.dev)  
+- 🌐 [Portfolio (coming soon)](https://lunalith.dev)  
 - 🐙 [SakuraForge Collective](https://github.com/sakuraforge)  
 - 📧 [muni@lunalith.dev](mailto:muni@lunalith.dev)
 
-> _"Florescer é iterar — cada pull request, uma metamorfose."_
+> _"To bloom is to iterate — every pull request, a metamorphosis."_
