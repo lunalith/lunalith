@@ -49,6 +49,6 @@
 
 - 🌐 [Portfolio (coming soon)](https://lunalith.dev)  
 - 🐙 [SakuraForge Collective](https://github.com/sakuraforge)  
-- 📧 [muni@lunalith.dev](mailto:muni@lunalith.dev)
+- 📧 [alysia@muni.dev.br](mailto:alysia@muni.dev.br)
 
 > _"To bloom is to iterate — every pull request, a metamorphosis."_
