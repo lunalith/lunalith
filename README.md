@@ -1,73 +1,89 @@
-<!-- 
-  🌸 Lunalith | Cyber Blossom 🌸
-  DevSecOps • Cloud Security • Poetic Code
+<!--
+  Alysia Germani — lunalith.dev
+  Paleta: Rosé Pine Moon
+  base #232136 · surface #2a273f · text #e0def4 · subtle #908caa
+  iris #c4a7e7 · foam #9ccfd8 · gold #f6c177 · love #eb6f92 · pine #3e8fb0
 -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&pause=1000&color=FF8094&center=true&vCenter=true&width=600&lines=Blooming+in+the+noise...;Forging+code+like+petals;Controlled+glitch%2C+organic+growth;printf(%22Hello%2C+SakuraForge%22);" alt="Typing SVG" />
-</p>
-
-<h1 align="center">🌸 Lunalith Alys | Cyber Blossom 🌸</h1>
+<h1 align="center">Alysia Germani</h1>
 
 <p align="center">
-  <b>Computer Science Student @ Unisinos</b> • Specializing in <b>DevSecOps, Cloud Security & Systems Engineering</b><br>
-  <i>Building secure, resilient software delivery pipelines with a focus on automation and clean architecture.</i>
+  <sub>ESTUDANTE DE CIÊNCIA DA COMPUTAÇÃO&nbsp; · &nbsp;SEGURANÇA DA INFORMAÇÃO&nbsp; · &nbsp;DADOS</sub>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alys-muni/"><img src="https://img.shields.io/badge/LinkedIn-Alysia_Germani-04182a?style=for-the-badge&logo=linkedin&logoColor=FF8094" /></a>
-  <a href="mailto:alysia@lunalith.dev"><img src="https://img.shields.io/badge/Email-04182a?style=for-the-badge&logo=gmail&logoColor=53E3FF" /></a>
-  <a href="https://lunalith.dev"><img src="https://img.shields.io/badge/Portfolio-04182a?style=for-the-badge&logo=firefox&logoColor=C18BFF" /></a>
+  <i>Buscando unir tecnologia e proteção de dados no setor bancário.</i>
+</p>
+
+<p align="center">
+  <a href="https://lunalith.dev"><img src="https://img.shields.io/badge/Site-lunalith.dev-f6c177?style=flat-square&logo=firefoxbrowser&logoColor=f6c177&labelColor=232136" alt="Site" /></a>
+  <a href="https://www.linkedin.com/in/alys-muni/"><img src="https://img.shields.io/badge/LinkedIn-alys--muni-c4a7e7?style=flat-square&logo=linkedin&logoColor=c4a7e7&labelColor=232136" alt="LinkedIn" /></a>
+  <a href="mailto:alysia@lunalith.dev"><img src="https://img.shields.io/badge/E--mail-alysia@lunalith.dev-9ccfd8?style=flat-square&logo=maildotru&logoColor=9ccfd8&labelColor=232136" alt="E-mail" /></a>
 </p>
 
 ---
 
-### 🌱 Core Focus & Engineering
+## Sobre
 
-- 🏗️ **Lead Maintainer @ [`Sakura Forge`](https://github.com/sakuraforge):** Developing open-source DevSecOps tooling and security scanners designed for developer-friendly CI/CD integration.
-- 🎓 **Academic Foundation:** Computer Science fundamentals — Data Structures, Networks, Cryptography, and Distributed Systems.
-- 🧪 **Hands-on Security:** Active practitioner on **TryHackMe** (Red/Blue Teaming) & **Cisco NetAcad** (Enterprise Networking).
+Estudante de Ciência da Computação na **Unisinos**, atualmente no 3º semestre.
 
----
+Tenho me dedicado a **cybersecurity**, com estudos práticos na HTB Academy, e nutro um
+interesse crescente por **dados** — entender como sistemas coletam, processam e protegem
+informação é algo que me motiva bastante. Sou proativa e movida pela vontade constante de
+aprender: gosto de ir atrás do conhecimento antes que ele bata à porta, e trato cada novo
+desafio como uma oportunidade de crescer tecnicamente.
 
-### 🛡️ Featured Project: Sakura Forge
+## Habilidades
 
-> **DevSecOps tooling designed to bake security directly into the software lifecycle.**
+<p>
+  <img src="https://img.shields.io/badge/Python-232136?style=flat-square&logo=python&logoColor=9ccfd8" alt="Python" />
+  <img src="https://img.shields.io/badge/C-232136?style=flat-square&logo=c&logoColor=c4a7e7" alt="C" />
+</p>
 
-* **Focus:** Automated security analysis, IaC compliance, and lightweight CLI utilities built in **Rust**, **Go**, and **Python**.
-* **Goal:** Reducing friction between software developers and security engineers.
-* 👉 Check out the organization: **[github.com/sakuraforge](https://github.com/sakuraforge)**
+## Trajetória
 
----
+**Iniciação Científica — CNPq · Projeto Cidadania Viva** *(atual)*
+Bolsista atuando como desenvolvedora de IA. Construo pipelines de inteligência artificial
+para **análise bioacústica**, transformando gravações de áudio coletadas via ciência cidadã
+em dados que ajudam a monitorar a biodiversidade urbana da Região Metropolitana de Porto
+Alegre. Aplico técnicas de *transfer learning* e colaboro com especialistas de mais de seis
+áreas do conhecimento — Direito, Arquitetura, Psicologia, entre outras — documentando todo o
+processo técnico para garantir reprodutibilidade.
 
-### ⚔️ Tech Arsenal
+**Comunidade tech**
+Participei do **Code@Night** na Unisinos (dezembro de 2025), evento de imersão no ecossistema
+de tecnologia com palestra da ADP Brazil Labs e foco em networking estratégico, além da
+palestra *"A vida real de um dev: o que ninguém te conta nos tutoriais"*, com Jhordan Pacheco,
+sobre os bastidores da carreira em desenvolvimento de software.
 
-| Category | Technologies & Tools |
+## Site pessoal
+
+**[lunalith.dev](https://lunalith.dev)** — portfólio e blog.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-232136?style=flat-square&logo=nextdotjs&logoColor=e0def4" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-232136?style=flat-square&logo=typescript&logoColor=9ccfd8" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-232136?style=flat-square&logo=tailwindcss&logoColor=3e8fb0" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sanity-232136?style=flat-square&logo=sanity&logoColor=eb6f92" alt="Sanity" />
+  <img src="https://img.shields.io/badge/Vercel-232136?style=flat-square&logo=vercel&logoColor=e0def4" alt="Vercel" />
+</p>
+
+O site foi construído com **Claude Code** a partir de uma especificação escrita por mim —
+stack, paleta, seções, conteúdo e boas práticas de Git definidos antes da primeira linha de
+código. O prompt está versionado aqui, na íntegra:
+
+**→ [`prompt-site-pessoal.md`](prompt-site-pessoal.md)**
+
+## Contato
+
+| | |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Rust-04182a?style=flat-square&logo=rust&logoColor=FF8094" /> <img src="https://img.shields.io/badge/Go-04182a?style=flat-square&logo=go&logoColor=53E3FF" /> <img src="https://img.shields.io/badge/Python-04182a?style=flat-square&logo=python&logoColor=FF8094" /> <img src="https://img.shields.io/badge/TypeScript-04182a?style=flat-square&logo=typescript&logoColor=53E3FF" /> |
-| **Cloud & DevOps** | <img src="https://img.shields.io/badge/OpenTofu-04182a?style=flat-square&logo=opentofu&logoColor=FF8094" /> <img src="https://img.shields.io/badge/Docker-04182a?style=flat-square&logo=docker&logoColor=6CD8B8" /> <img src="https://img.shields.io/badge/Linux-04182a?style=flat-square&logo=linux&logoColor=C18BFF" /> <img src="https://img.shields.io/badge/Git-04182a?style=flat-square&logo=git&logoColor=FF8094" /> <img src="https://img.shields.io/badge/GitHub_Actions-04182a?style=flat-square&logo=githubactions&logoColor=53E3FF" /> |
-| **Security & Web** | <img src="https://img.shields.io/badge/DevSecOps-04182a?style=flat-square&logo=snyk&logoColor=FF8094" /> <img src="https://img.shields.io/badge/SvelteKit-04182a?style=flat-square&logo=svelte&logoColor=FF8094" />  |
-
----
-
-### 📊 Activity & Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=lunalith&background=04182a&border=FF8094&stroke=FF8094&ring=53E3FF&fire=FF8094&currStreakNum=ffffff&sideNums=ffffff&sideTitle=FF8094&currStreakLabel=53E3FF&dates=ffffff" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌸 Philosophy
-
-> **"Code that blooms in layers. Security as the root."**
-
-- **Infrastructure as Poetry:** Code should be as maintainable and elegant as it is resilient.
-- **Security Culture:** DevSecOps is not just a pipeline gatekeeper — it's an organic, continuous feedback loop.
-- **Metamorphosis:** Every commit is a petal. Every vulnerability fixed, a stronger root.
+| **LinkedIn** | [linkedin.com/in/alys-muni](https://www.linkedin.com/in/alys-muni/) |
+| **E-mail** | [alysia@lunalith.dev](mailto:alysia@lunalith.dev) |
+| **GitHub** | [github.com/Lunalith](https://github.com/Lunalith) |
 
 ---
 
 <p align="center">
-  <sub>Designed with 🌸 by Lunalith • 📧 <a href="mailto:alysia@lunalith.dev">alysia@lunalith.dev</a></sub>
+  <sub>🐇 &nbsp;<a href="https://lunalith.dev">lunalith.dev</a></sub>
 </p>
